@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MO
-- 👀 I’m interested in machine learning and deep learning
-- 🌱 I’m currently learning "generative adversarial networks"
-- 💞️ I’m looking to collaborate on any project if you would invite me
+- 👀 I’m interested in machine learning and deep learning.
+- 🌱 I’m currently learning "Generative Adversarial Networks".
+- 💞️ I’m looking to collaborate on any project if you would invite me.
 - 📫 How to reach me : 6380259226@student.chula.ac.th
 
 <!---
