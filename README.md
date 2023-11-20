@@ -1,10 +1,26 @@
-- 👋 Hi, I’m MO
-- 👀 I’m interested in machine learning and deep learning.
-- 🌱 I’m currently learning "Generative Adversarial Networks".
-- 💞️ I’m looking to collaborate on any project if you would invite me.
-- 📫 How to reach me : 6380259226@student.chula.ac.th
+# Hello, I'm Nevermetyou65! 👋
 
-<!---
-Nevermetyou65/Nevermetyou65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a data scientist based in bangkok, Thialand.
+
+## 🌱 Currently Learning
+
+- Attention based DNN
+- Representation learning and unsupervised learning
+- NLP
+
+## 📫 How to Reach Me
+
+- [LinkedIn](www.linkedin.com/in/pakpoom-singkorapoom-764282214)
+- Email: pakpoom.singkora@gmail.com
+
+## 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nevermetyou65&show_icons=true&count_private=true&hide=contribs)](https://github.com/Neveremtyou65)
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations and collaboration. Feel free to reach out!
+
+
