@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a data scientist based in bangkok, Thialand.
+I'm a data scientist based in Bangkok, Thailand.
 
 ## 🌱 Currently Learning
 
