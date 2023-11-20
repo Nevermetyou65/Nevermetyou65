@@ -1,19 +1,16 @@
-# Hello, I'm Nevermetyou65! 👋
+# 👋 Hello, I'm Nevermetyou65!
 
-## About Me
-
-I'm a data scientist based in Bangkok, Thailand.
+Welcome to my GitHub profile! I'm a passionate data scientist based in the vibrant city of Bangkok, Thailand, constantly exploring the realms of artificial intelligence and machine learning.
 
 ## 🌱 Currently Learning
 
-- Attention based DNN
-- Representation learning and unsupervised learning
-- NLP
+- 🧠 Delving into Attention-based Deep Neural Networks
+- 📚 Exploring Representation Learning and Unsupervised Learning
+- 🤖 Nurturing my skills in Natural Language Processing (NLP)
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](www.linkedin.com/in/pakpoom-singkorapoom-764282214)
-- Email: pakpoom.singkora@gmail.com
+Connect with me on [LinkedIn](www.linkedin.com/in/pakpoom-singkorapoom-764282214) or drop me an email at pakpoom.singkora@gmail.com. Let's talk about data, AI, or anything fascinating!
 
 ## 📊 GitHub Stats
 
@@ -21,6 +18,7 @@ I'm a data scientist based in Bangkok, Thailand.
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting conversations and collaboration. Feel free to reach out!
+I'm always open to intriguing conversations and collaborations. Feel free to reach out—I'd love to hear from you and explore exciting opportunities together!
+
 
 
